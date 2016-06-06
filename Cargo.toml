@@ -1,0 +1,8 @@
+[package]
+name = "rs-xmlint"
+version = "0.1.0"
+authors = ["Ruslan Absalyamov <ruslan.absalyamov@gmail.com>"]
+description = "Xml lint tool"
+
+[dependencies]
+xml-rs = "0.3.4"
