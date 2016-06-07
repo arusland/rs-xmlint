@@ -10,6 +10,9 @@
 
 <name>Test Project</name>
 
+
+
+
 <modules>
 	<module>tezrok</module>
 					<module>tezrok-sdk</module>
