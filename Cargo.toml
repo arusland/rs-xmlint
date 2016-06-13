@@ -6,3 +6,5 @@ description = "Xml lint tool"
 
 [dependencies]
 xml-rs = "0.3.4"
+encoding = "0.2.32"
+regex = "0.1.71"
